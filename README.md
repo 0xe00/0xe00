@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is my sandbox, don't expect masterpieces. Most of my repositories are **private**
+This is my sandbox, don't expect masterpieces. Most of my repositories are **private**.
 <!--
 **0xe00/0xe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
